@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import List
+import csv
 
 class Employee(ABC):
     @abstractmethod
@@ -72,67 +73,47 @@ class Department:
         self.employees.remove(employee)
         print(f"{employee.name} has been fired.")
     
-    def promote(self, employee: Employee) :
-        if isinstance(employee, Manager):
-            employee.title = "Regional Manager"
-            employee.salary *= 1.3  
-        elif isinstance(employee, Developer):
-            employee.title = "Senior Developer"
-            employee.salary *= 1.2  
-        elif isinstance(employee, Intern):
-            employee.title = "Full-Time Employee"
-            employee.salary *= 1.5  
-        print(f"{employee.name} has been promoted to {employee.title}.")
-    
-    def demote(self, employee: Employee) -> None:
-        if isinstance(employee, Manager):
-            employee.title = "Assistant Manager"
-            employee.salary *= 0.8  
-        elif isinstance(employee, Developer):
-            employee.title = "Junior Developer"
-            employee.salary *= 0.8  
-        elif isinstance(employee, Intern):
-            print(f"{employee.name} did not get a full-time offer and remains an intern.")
-            return
-        print(f"{employee.name} has been demoted to {employee.title}.")
-    
     def get_total_salary(self):
         return sum(employee.get_salary() for employee in self.employees)
 
     def show_employee_details(self):
         print(f"Employees in {self.name} Department:")
         for employee in self.employees:
-            print(f"- {employee.name}, Salary: {employee.get_salary()}, Role: {employee.work()}")
+            print(f"{employee.name}, Salary: {employee.get_salary()}, Role: {employee.work()}")
 
-
-manager = Manager("Alice", 80000)
-developer = Developer("Bob", 60000)
-intern = Intern("Charlie", 20000)
-security_staff = Security("Ram", 5000)
-
+    def save_to_csv(self, filename="employee_data.csv"):
+        with open(filename, mode='w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(["Name", "Role", "Salary"])
+            for employee in self.employees:
+                writer.writerow([employee.name, employee.title, employee.get_salary()])
+       
 it_department = Department("IT")
-it_department.hire(manager)
-it_department.hire(developer)
-it_department.hire(intern)
-it_department.hire(security_staff)
 
-it_department.show_employee_details()
+num_employees = int(input("Enter the number of employees to add: "))
+for _ in range(num_employees):
+    print("\nEnter employee details:")
+    name = input("Name: ")
+    role = input("Role (Manager/Developer/Intern/Security): ")
+    salary = float(input("Salary: "))
+    
+    if role.lower() == "manager":
+        employee = Manager(name, salary)
+    elif role.lower() == "developer":
+        employee = Developer(name, salary)
+    elif role.lower() == "intern":
+        employee = Intern(name, salary)
+    elif role.lower() == "security":
+        employee = Security(name, salary)
+    else:
+        print("Invalid role, please try again.")
+        continue
+    
+    it_department.hire(employee)
 
-print("\nPromotions:")
-it_department.promote(manager)
-it_department.promote(developer)
-it_department.promote(intern)
-
-print("\nAfter Promotion:")
-it_department.show_employee_details()
-
-print("\nDemotions:")
-it_department.demote(manager)
-it_department.demote(developer)
-it_department.demote(intern)
-
-print("\nAfter Demotion:")
 it_department.show_employee_details()
 
 total_salary = it_department.get_total_salary()
-print(f"Total salary expense for {it_department.name} department: ${total_salary}")
+print(f"Total salary expense for {it_department.name} department: {total_salary} Rs")
+
+it_department.save_to_csv()
