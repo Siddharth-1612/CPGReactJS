@@ -4,14 +4,16 @@ import './App.css';
 import Header from './Header.js';
 import Body from './Body.js';
 import Footer from './Footer.js';
-import Greeting from './func_comp.js';
+import InterestCalculator from './calculator.js';
+import FetchUser from './fetcher.js';
 function App() {
   return (
       <div>
         <Header/>
         <Body/>
-        <Greeting name="John"/>
+        <InterestCalculator/>
         <Footer/>
+        <FetchUser/>
     </div>
   );
 }

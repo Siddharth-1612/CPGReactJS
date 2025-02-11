@@ -8,7 +8,7 @@ function Footer(){
     );
 }
 const styles = {
-    main: {
+    footer: {
         backgroundColor: "#333",
         color: "white",
         padding: "10px",
