@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Basic from './Greetings.js';
-import Body from './Body.js';
+import Basic from './sidd/src/Greetings.js';
+import Body from './sidd/src/Body.js';
 function App() {
   return (
       <div className="App">
