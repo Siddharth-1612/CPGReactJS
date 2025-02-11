@@ -3,7 +3,6 @@ import React from 'react';
 function Body(){
     return(
         <main style={styles.main}>
-        <h2>My Website</h2>
         <p> This is a simple react application with a structured layout</p>
     </main>
     );
