@@ -11,7 +11,7 @@ function App() {
       <div>
         <Header/>
         <Body/>
-        <InterestCalculator/>
+        <InterestCalculator/>x
         <Footer/>
         <FetchUser/>
     </div>
