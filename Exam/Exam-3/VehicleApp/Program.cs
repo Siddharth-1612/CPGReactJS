@@ -22,7 +22,7 @@ class Program
         Vehicle car = new Car();
         Vehicle bike = new Bike();
 
-        car.Start();  // Calls Car's Start()
-        bike.Start(); // Calls Bike's Start()
+        car.Start();  
+        bike.Start();
     }
 }

@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/bin/Debug/net9.0/LoggerApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/bin/Debug/net9.0/LoggerApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/bin/Debug/net9.0/LoggerApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/bin/Debug/net9.0/LoggerApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/bin/Debug/net9.0/LoggerApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/refint/LoggerApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/LoggerApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/LoggerApp/obj/Debug/net9.0/ref/LoggerApp.dll

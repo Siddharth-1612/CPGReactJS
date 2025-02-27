@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/bin/Debug/net9.0/ThreadSafeApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/bin/Debug/net9.0/ThreadSafeApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/bin/Debug/net9.0/ThreadSafeApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/bin/Debug/net9.0/ThreadSafeApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/bin/Debug/net9.0/ThreadSafeApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/refint/ThreadSafeApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ThreadSafeApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ThreadSafeApp/obj/Debug/net9.0/ref/ThreadSafeApp.dll

@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/bin/Debug/net9.0/PlayerApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/bin/Debug/net9.0/PlayerApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/bin/Debug/net9.0/PlayerApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/bin/Debug/net9.0/PlayerApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/bin/Debug/net9.0/PlayerApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/refint/PlayerApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/PlayerApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/PlayerApp/obj/Debug/net9.0/ref/PlayerApp.dll

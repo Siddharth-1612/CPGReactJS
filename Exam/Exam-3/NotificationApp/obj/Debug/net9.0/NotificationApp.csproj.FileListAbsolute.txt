@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/bin/Debug/net9.0/NotificationApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/bin/Debug/net9.0/NotificationApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/bin/Debug/net9.0/NotificationApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/bin/Debug/net9.0/NotificationApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/bin/Debug/net9.0/NotificationApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/refint/NotificationApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/NotificationApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/NotificationApp/obj/Debug/net9.0/ref/NotificationApp.dll

@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/bin/Debug/net9.0/ButtonApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/bin/Debug/net9.0/ButtonApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/bin/Debug/net9.0/ButtonApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/bin/Debug/net9.0/ButtonApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/bin/Debug/net9.0/ButtonApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/refint/ButtonApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ButtonApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ButtonApp/obj/Debug/net9.0/ref/ButtonApp.dll

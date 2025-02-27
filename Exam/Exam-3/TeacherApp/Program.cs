@@ -28,7 +28,7 @@ class Program
         Person student = new Student("Alice", 101);
         Person teacher = new Teacher("Mr.Bob", "Mathematics");
 
-        student.GetDetails(); // Calls Student's GetDetails()
-        teacher.GetDetails(); // Calls Teacher's GetDetails()
+        student.GetDetails(); 
+        teacher.GetDetails();
     }
 }
