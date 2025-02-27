@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/bin/Debug/net8.0/InterestApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/bin/Debug/net8.0/InterestApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/bin/Debug/net8.0/InterestApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/bin/Debug/net8.0/InterestApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/bin/Debug/net8.0/InterestApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/refint/InterestApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/InterestApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterestApp/obj/Debug/net8.0/ref/InterestApp.dll

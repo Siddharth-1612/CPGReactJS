@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/bin/Debug/net8.0/SecurityApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/bin/Debug/net8.0/SecurityApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/bin/Debug/net8.0/SecurityApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/bin/Debug/net8.0/SecurityApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/bin/Debug/net8.0/SecurityApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/refint/SecurityApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/SecurityApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SecurityApp/obj/Debug/net8.0/ref/SecurityApp.dll

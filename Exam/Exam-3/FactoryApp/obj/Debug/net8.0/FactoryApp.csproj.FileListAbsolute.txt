@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/bin/Debug/net8.0/FactoryApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/bin/Debug/net8.0/FactoryApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/bin/Debug/net8.0/FactoryApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/bin/Debug/net8.0/FactoryApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/bin/Debug/net8.0/FactoryApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/refint/FactoryApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/FactoryApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/FactoryApp/obj/Debug/net8.0/ref/FactoryApp.dll

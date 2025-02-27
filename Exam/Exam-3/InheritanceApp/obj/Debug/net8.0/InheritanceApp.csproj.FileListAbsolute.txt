@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/bin/Debug/net8.0/InheritanceApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/bin/Debug/net8.0/InheritanceApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/bin/Debug/net8.0/InheritanceApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/bin/Debug/net8.0/InheritanceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/bin/Debug/net8.0/InheritanceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/refint/InheritanceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/InheritanceApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InheritanceApp/obj/Debug/net8.0/ref/InheritanceApp.dll

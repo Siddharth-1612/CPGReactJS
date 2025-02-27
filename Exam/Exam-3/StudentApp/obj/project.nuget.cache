@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLwabistoHo=",
+  "success": true,
+  "projectFilePath": "/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/StudentApp/StudentApp.csproj",
+  "expectedPackageFiles": [
+    "/home/iamsid/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/iamsid/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/iamsid/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

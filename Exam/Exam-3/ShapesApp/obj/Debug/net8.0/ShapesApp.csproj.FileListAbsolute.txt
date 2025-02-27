@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/bin/Debug/net8.0/ShapesApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/bin/Debug/net8.0/ShapesApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/bin/Debug/net8.0/ShapesApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/bin/Debug/net8.0/ShapesApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/bin/Debug/net8.0/ShapesApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/refint/ShapesApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ShapesApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ShapesApp/obj/Debug/net8.0/ref/ShapesApp.dll

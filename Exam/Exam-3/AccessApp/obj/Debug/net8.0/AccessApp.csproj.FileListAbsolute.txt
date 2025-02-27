@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/bin/Debug/net8.0/AccessApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/bin/Debug/net8.0/AccessApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/bin/Debug/net8.0/AccessApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/bin/Debug/net8.0/AccessApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/bin/Debug/net8.0/AccessApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/refint/AccessApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/AccessApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AccessApp/obj/Debug/net8.0/ref/AccessApp.dll

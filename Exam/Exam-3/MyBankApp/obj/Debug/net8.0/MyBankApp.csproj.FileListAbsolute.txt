@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/bin/Debug/net8.0/MyBankApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/bin/Debug/net8.0/MyBankApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/bin/Debug/net8.0/MyBankApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/bin/Debug/net8.0/MyBankApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/bin/Debug/net8.0/MyBankApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/refint/MyBankApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/MyBankApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MyBankApp/obj/Debug/net8.0/ref/MyBankApp.dll

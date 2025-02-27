@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/bin/Debug/net8.0/VehicleApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/bin/Debug/net8.0/VehicleApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/bin/Debug/net8.0/VehicleApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/bin/Debug/net8.0/VehicleApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/bin/Debug/net8.0/VehicleApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/refint/VehicleApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/VehicleApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/VehicleApp/obj/Debug/net8.0/ref/VehicleApp.dll

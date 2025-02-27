@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/bin/Debug/net8.0/TeacherApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/bin/Debug/net8.0/TeacherApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/bin/Debug/net8.0/TeacherApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/bin/Debug/net8.0/TeacherApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/bin/Debug/net8.0/TeacherApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/refint/TeacherApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/TeacherApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/TeacherApp/obj/Debug/net8.0/ref/TeacherApp.dll

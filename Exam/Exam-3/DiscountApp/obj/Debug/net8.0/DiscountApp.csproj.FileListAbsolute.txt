@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/bin/Debug/net8.0/DiscountApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/bin/Debug/net8.0/DiscountApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/bin/Debug/net8.0/DiscountApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/bin/Debug/net8.0/DiscountApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/bin/Debug/net8.0/DiscountApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/refint/DiscountApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/DiscountApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/DiscountApp/obj/Debug/net8.0/ref/DiscountApp.dll
