@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/bin/Debug/net9.0/ConstructorChainingApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/bin/Debug/net9.0/ConstructorChainingApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/bin/Debug/net9.0/ConstructorChainingApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/bin/Debug/net9.0/ConstructorChainingApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/bin/Debug/net9.0/ConstructorChainingApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/refint/ConstructorChainingApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ConstructorChainingApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/ConstructorChainingApp/obj/Debug/net9.0/ref/ConstructorChainingApp.dll

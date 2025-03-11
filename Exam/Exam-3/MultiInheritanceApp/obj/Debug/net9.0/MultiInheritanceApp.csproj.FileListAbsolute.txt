@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/bin/Debug/net9.0/MultiInheritanceApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/bin/Debug/net9.0/MultiInheritanceApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/bin/Debug/net9.0/MultiInheritanceApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/bin/Debug/net9.0/MultiInheritanceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/bin/Debug/net9.0/MultiInheritanceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/refint/MultiInheritanceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/MultiInheritanceApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/MultiInheritanceApp/obj/Debug/net9.0/ref/MultiInheritanceApp.dll

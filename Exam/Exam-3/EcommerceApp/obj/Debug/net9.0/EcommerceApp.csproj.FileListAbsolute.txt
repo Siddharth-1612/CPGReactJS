@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/bin/Debug/net9.0/EcommerceApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/bin/Debug/net9.0/EcommerceApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/bin/Debug/net9.0/EcommerceApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/bin/Debug/net9.0/EcommerceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/bin/Debug/net9.0/EcommerceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/refint/EcommerceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/EcommerceApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/EcommerceApp/obj/Debug/net9.0/ref/EcommerceApp.dll

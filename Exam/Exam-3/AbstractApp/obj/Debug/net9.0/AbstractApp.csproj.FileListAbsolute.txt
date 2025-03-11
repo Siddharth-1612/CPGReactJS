@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/bin/Debug/net9.0/AbstractApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/bin/Debug/net9.0/AbstractApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/bin/Debug/net9.0/AbstractApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/bin/Debug/net9.0/AbstractApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/bin/Debug/net9.0/AbstractApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/refint/AbstractApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/AbstractApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/AbstractApp/obj/Debug/net9.0/ref/AbstractApp.dll

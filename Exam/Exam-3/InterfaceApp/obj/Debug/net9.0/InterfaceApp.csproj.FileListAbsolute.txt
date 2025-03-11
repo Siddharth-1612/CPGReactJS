@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/bin/Debug/net9.0/InterfaceApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/bin/Debug/net9.0/InterfaceApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/bin/Debug/net9.0/InterfaceApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/bin/Debug/net9.0/InterfaceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/bin/Debug/net9.0/InterfaceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/refint/InterfaceApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/InterfaceApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/InterfaceApp/obj/Debug/net9.0/ref/InterfaceApp.dll

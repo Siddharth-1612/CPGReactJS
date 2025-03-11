@@ -5,17 +5,26 @@ class User
     public string Username { get; set; }
     public string Role { get; set; }
 
-    public virtual void AccessControl() => Console.WriteLine("General User Access");
+    public virtual void AccessControl()
+    {
+        Console.WriteLine("General User Access");
+    }
 }
 
 class Admin : User
 {
-    public override void AccessControl() => Console.WriteLine("Admin: Full Access Granted");
+    public override void AccessControl()
+    {
+        Console.WriteLine("Admin: Full Access Granted");
+    }
 }
 
 class Customer : User
 {
-    public override void AccessControl() => Console.WriteLine("Customer: Limited Access");
+    public override void AccessControl()
+    {
+        Console.WriteLine("Customer: Limited Access");
+    }
 }
 
 class Program

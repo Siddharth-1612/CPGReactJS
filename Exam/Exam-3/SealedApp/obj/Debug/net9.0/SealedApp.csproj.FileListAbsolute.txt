@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/bin/Debug/net9.0/SealedApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/bin/Debug/net9.0/SealedApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/bin/Debug/net9.0/SealedApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/bin/Debug/net9.0/SealedApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/bin/Debug/net9.0/SealedApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/refint/SealedApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/SealedApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/SealedApp/obj/Debug/net9.0/ref/SealedApp.dll

@@ -1,0 +1,14 @@
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/bin/Debug/net9.0/OverridingApp
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/bin/Debug/net9.0/OverridingApp.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/bin/Debug/net9.0/OverridingApp.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/bin/Debug/net9.0/OverridingApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/bin/Debug/net9.0/OverridingApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/refint/OverridingApp.dll
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/OverridingApp.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Exam/Exam-3/OverridingApp/obj/Debug/net9.0/ref/OverridingApp.dll

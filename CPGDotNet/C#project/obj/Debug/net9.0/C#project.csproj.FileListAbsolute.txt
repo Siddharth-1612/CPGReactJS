@@ -1,0 +1,16 @@
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/bin/Debug/net9.0/C#project
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/bin/Debug/net9.0/C#project.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/bin/Debug/net9.0/C#project.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/bin/Debug/net9.0/C#project.dll
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/bin/Debug/net9.0/C#project.pdb
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.dll
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/refint/C#project.dll
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.pdb
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/ref/C#project.dll
+/home/iamsid/Desktop/CAPGCOURSE/CPGDotNet/C#project/obj/Debug/net9.0/C#project.csproj.AssemblyReference.cache
